@@ -1,1 +1,1 @@
-worker: node celestia.js
+worker: npm start
