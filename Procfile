@@ -1,1 +1,1 @@
-worker node celestia.js
+worker: node celestia.js
